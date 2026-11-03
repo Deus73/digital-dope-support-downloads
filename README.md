@@ -1,6 +1,9 @@
-# SUPPORT DDA – downloads
+# ASK HELP DDA en DDA SUPPORT – downloads
 
-Hier staan de APK-bestanden van de SUPPORT DDA-app voor Android: telefoon, tablet en Android TV.
+Hier staan de APK-bestanden voor Android:
+
+- **ASK HELP DDA**: de app voor klanten, voor telefoon, tablet en Android TV.
+- **DDA SUPPORT**: de app voor medewerkers.
 
 - Download de nieuwste versie onder **Releases**.
 - Deze repository bevat geen broncode.
